@@ -21,6 +21,7 @@ d.) 0
 
 Notes: 
 
+```
 `7 – 5 + (2 * 1) = 2` => `2 + 2 = 2` Answer should be 4
 `3 – 0 + (4 * 2) = 4` => `3 + 8 = 4` Answer should be 11
 `9 – 2 + (1 * 5) = 1` => `7 + 5 = 1` Answer should be 12
@@ -28,6 +29,7 @@ Notes:
 `1 – 3 + (2 * 5) = 5` => `-2 + 10 = 5` Answer should be 8
 `4 – 6 + (4 * 9) = 9` => `-2 + 36 = 9` Answer should be 34
 `5 – 2 + (7 * 0) = ?` => `3 + 0 = ?` Answer should be 3
+```
 
 Answer: d. 0 (wild guess)
 
