@@ -55,7 +55,7 @@ c.) 2
 d.) None of the above
 ```
 
-Answer: d.) None of the above, it should print 1 when getData is invoked x = 1, output should be 1
+Answer: d.) None of the above, it should print `1` when `getData` is invoked `x = 1`, output should be `1`
 
 
 3. Given the data below, which expression filters the list using standard SQL where clause to show 5 year old girls with a cold
@@ -76,7 +76,7 @@ c.) Age = 5 and Gender = Girl and Condition = ‘Cold’ andCondition =’Headac
 d.) None of the above
 ```
 
-Answer d. None of the above, query should be WHERE Age = 5 AND Gender = 'F' AND (Condition = 'Cold' OR Condition = 'Headache')
+Answer d. None of the above, query should be `WHERE Age = 5 AND Gender = 'F' AND (Condition = 'Cold' OR Condition = 'Headache')`
 
 
 4. Given the data below, which expression best describes the data below?
@@ -96,7 +96,7 @@ c.) Age >= 3 and Gender <> ‘M’
 d.) Age >= 3 or Condition <> ‘N/A’
 ```
 
-Answer: d. Age >= 3 or Condition <> ‘N/A’
+Answer: d. `Age >= 3 or Condition <> ‘N/A’`
 
 5. The two pseudo codes below attempts to find the index of a number (n) from a very large sorted list/array (L) in ascending
 order. Which of the following statement is true?
