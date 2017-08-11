@@ -48,10 +48,12 @@ if ( getData() > 0 || getData() < 10) {
 }
 ```
 
+```
 a.) No output 
 b.) 0
 c.) 2 
 d.) None of the above
+```
 
 Answer: d.) None of the above, it should print 1 when getData is invoked x = 1, output should be 1
 
@@ -67,26 +69,32 @@ Joanne Benitez  4   F       Cold
 Teresa Hilahil  3   F       None
 ```
 
+```
 a.) Age = 5 and Gender = Girl and Condition = ‘Cold’ or Condition =’Headache’
 b.) Age = 5 and Gender = Girl or Condition = ‘Cold’ and Condition =’Headache’
 c.) Age = 5 and Gender = Girl and Condition = ‘Cold’ andCondition =’Headache’
 d.) None of the above
+```
 
 Answer d. None of the above, query should be WHERE Age = 5 AND Gender = 'F' AND (Condition = 'Cold' OR Condition = 'Headache')
 
 
 4. Given the data below, which expression best describes the data below?
 
+```
 Name            Age     Gender  Condition
 Jose Lapilez    7       M       Cold
 Maria Tengson   8       F       Headache
 Ramon Nestor    3       M       Runny Nose
 Teresa Hilahil  5       F       None
+```
 
+```
 a.) Age <= 7 and Gender <> ‘F’ 
 b.) Age <= 7 and Condition <> ‘N/A’
 c.) Age >= 3 and Gender <> ‘M’ 
 d.) Age >= 3 or Condition <> ‘N/A’
+```
 
 Answer: d. Age >= 3 or Condition <> ‘N/A’
 
@@ -130,10 +138,12 @@ function find(n,L,start,end) {
 }
 ```
 
+```
 a.) Code 1 is correct and runs faster than Code 2 
 b.) Code 1 is incorrect
 c.) Code2 is correct and runs faster than Code 1 
 d.) Code2 is incorrect
+```
 
 Answer: c. Code2 is correct and runs faster than Code 1 
 
@@ -153,12 +163,13 @@ while(i < 10) {
 ```
 
 Output:
+```
 3
 5
 7
 9
 11
-
+```
 
 7. What is the output of the pseudo code below?
 
@@ -174,8 +185,9 @@ while(i < 10) {
 ```
 
 Output:
+```
 1
-
+```
 
 8. What is the output of the pseudo code below?
 
@@ -188,11 +200,12 @@ while(x > 0) {
 ```
 
 Output:
+```
 0
 0
 0
 1
-
+```
 
 9. What is the output of the pseudo code below assuming that the charAt function is zero-based?
 
